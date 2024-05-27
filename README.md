@@ -23,7 +23,25 @@ CAR_USE- private or commercial
 BLUEBOOK- worth of car  
 CAR_TYPE- car type  
 OLDCLAIM- previous claim  
-CLM_FREQ- how often claimed  
+CLM_FREQ- how often claimed
+
+## Approach Used -  
+1. Univariate analysis- Visualising every relevant feature to understand its data distribution and gain insights.  
+2. Bivariate analysis- Visualising the Target variables (Claim amount and Claim frequency) with every other feature and write the relevant insights.  
+3. Through all the gained insights, write business recommendations for the decreasing the claim amount and claim frequency and finding the target customer profile.
+
+
+
+
+
+
+
+
+
+
+
+
+
 CLM_AMT- currently claimed amount  
 CAR_AGE- age of the car  
 URBANCITY- place of car driving  
